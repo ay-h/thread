@@ -1,1 +1,1 @@
-多线程编程，线程同步学习记录
+ok can't show chinese!
