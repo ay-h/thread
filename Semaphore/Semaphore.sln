@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Semaphore", "Semaphore\Semaphore.vcxproj", "{218E5755-FA56-4EDB-937D-EB5E2062306C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218E5755-FA56-4EDB-937D-EB5E2062306C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{218E5755-FA56-4EDB-937D-EB5E2062306C}.Debug|Win32.Build.0 = Debug|Win32
+		{218E5755-FA56-4EDB-937D-EB5E2062306C}.Release|Win32.ActiveCfg = Release|Win32
+		{218E5755-FA56-4EDB-937D-EB5E2062306C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
