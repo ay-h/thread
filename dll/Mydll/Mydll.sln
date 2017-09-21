@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mydll", "Mydll.vcxproj", "{DE2563BF-B7E3-4D6D-9FF9-965ECBFD9DED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dllDemo", "..\dllDemo\dllDemo.vcxproj", "{A13FFE20-56E4-4421-A274-CC99CA7C8D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2563BF-B7E3-4D6D-9FF9-965ECBFD9DED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DE2563BF-B7E3-4D6D-9FF9-965ECBFD9DED}.Debug|Win32.Build.0 = Debug|Win32
+		{DE2563BF-B7E3-4D6D-9FF9-965ECBFD9DED}.Release|Win32.ActiveCfg = Release|Win32
+		{DE2563BF-B7E3-4D6D-9FF9-965ECBFD9DED}.Release|Win32.Build.0 = Release|Win32
+		{A13FFE20-56E4-4421-A274-CC99CA7C8D45}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A13FFE20-56E4-4421-A274-CC99CA7C8D45}.Debug|Win32.Build.0 = Debug|Win32
+		{A13FFE20-56E4-4421-A274-CC99CA7C8D45}.Release|Win32.ActiveCfg = Release|Win32
+		{A13FFE20-56E4-4421-A274-CC99CA7C8D45}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
