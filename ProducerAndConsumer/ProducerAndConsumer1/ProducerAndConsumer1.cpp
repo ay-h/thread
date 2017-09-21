@@ -25,7 +25,7 @@ int main()
 	g_hEventBufFull=CreateSemaphore(NULL,0,4,NULL);
 	const int THREAD_NUM=3;
 	HANDLE handle[THREAD_NUM];
-	memset(g_Buffer,0,sizeof(g_Buffer));
+	memset(g_Buffer,0,sizeof(g_Buffer));	//ª∫≥Â≥ÿ«Â¡„
 	handle[0]=CreateThread(NULL,0,ProducerThread,NULL,0,NULL);
 	handle[1]=CreateThread(NULL,0,ConsumerThread,NULL,0,NULL);
 	handle[2]=CreateThread(NULL,0,ConsumerThread,NULL,0,NULL);
