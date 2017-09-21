@@ -53,7 +53,7 @@ DWORD WINAPI ProducerThread(LPVOID p)
 
 DWORD WINAPI ConsumerThread(LPVOID p)
 {
-	for (int i=1;i<PRODUCT_NUM;i++)
+	for (int i=1;i<=PRODUCT_NUM;i++)
 	{
 		WaitForSingleObject(g_hEventBufFull,INFINITE);
 		EnterCriticalSection(&g_csVar);
