@@ -1,2 +1,14 @@
+<<<<<<< HEAD
 ﻿  pv.cpp
   pv.vcxproj -> F:\github\thread\pv\Debug\pv.exe
+=======
+﻿生成启动时间为 2017/10/21 星期六 14:01:41。
+     1>项目“F:\Codes\thread\pv\pv.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         pv.vcxproj -> F:\Codes\thread\pv\Debug\pv.exe
+     1>已完成生成项目“F:\Codes\thread\pv\pv.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.17
+>>>>>>> 8d6889176851d90f862e0791d47faaaf291aaf75
